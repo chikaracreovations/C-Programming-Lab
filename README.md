@@ -1,4 +1,4 @@
-# 💻 C Programming Lab - 90 Programs  
+# 💻 C Programming Lab
 
 ## 👨‍🎓 Student Details  
 - Name: Ansh Chikara  
