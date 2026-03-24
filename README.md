@@ -24,10 +24,10 @@
 ## 📋 List of Programs & Status  
 
 ### 🔹 Lab 1: Basics  
-1. Marks Percentage - ⬜ Pending  
-2. Simple & Compound Interest - ⬜ Pending  
-3. Area & Circumference of Circle - ⬜ Pending  
-4. Temperature Conversion - ⬜ Pending  
+1. Marks Percentage - ✅  
+2. Simple & Compound Interest - ✅ 
+3. Area & Circumference of Circle - ✅ 
+4. Temperature Conversion - ✅ 
 5. Distance Conversion - ⬜ Pending  
 6. Days to Years/Months - ⬜ Pending  
 7. Salary Calculation - ⬜ Pending  
@@ -38,10 +38,10 @@
 ---
 
 ### 🔹 Lab 2: Conditions  
-11. Swap using third variable - ⬜ Pending  
-12. Check equal numbers - ⬜ Pending  
-13. Greatest of three - ⬜ Pending  
-14. Even or Odd - ⬜ Pending  
+11. Swap using third variable - ✅
+12. Check equal numbers - ✅  
+13. Greatest of three - ✅  
+14. Even or Odd - ✅ 
 15. Quadratic roots - ⬜ Pending  
 16. Alphabet/Digit/Symbol - ⬜ Pending  
 17. Positive/Negative/Zero - ⬜ Pending  
@@ -52,9 +52,9 @@
 ---
 
 ### 🔹 Lab 3: Switch & Decisions  
-21. Leap year - ⬜ Pending  
-22. Grade calculation - ⬜ Pending  
-23. Calculator (switch) - ⬜ Pending  
+21. Leap year - ✅ 
+22. Grade calculation - ✅  
+23. Calculator (switch) - ✅  
 24. Weekday from number - ⬜ Pending  
 25. Days in month - ⬜ Pending  
 26. Vowel/Consonant (switch) - ⬜ Pending  
@@ -66,9 +66,9 @@
 ---
 
 ### 🔹 Lab 4: Loops  
-31. Sum of natural numbers - ⬜ Pending  
-32. Factorial - ⬜ Pending  
-33. Sum of even & odd - ⬜ Pending  
+31. Sum of natural numbers - ✅ 
+32. Factorial - ✅  
+33. Sum of even & odd - ✅ 
 34. Multiplication table - ⬜ Pending  
 35. First N natural numbers - ⬜ Pending  
 36. Reverse digits - ⬜ Pending  
@@ -80,10 +80,10 @@
 ---
 
 ### 🔹 Lab 5: Series & Recursion  
-41. Fibonacci (loop) - ⬜ Pending  
-42. Prime number - ⬜ Pending  
-43. Sum of digits - ⬜ Pending  
-44. Armstrong number - ⬜ Pending  
+41. Fibonacci (loop) - ✅  
+42. Prime number - ✅  
+43. Sum of digits - ✅ 
+44. Armstrong number - ✅  
 45. Strong number - ⬜ Pending  
 46. Perfect number - ⬜ Pending  
 47. Prime numbers 1–N - ⬜ Pending  
@@ -97,7 +97,7 @@
 51. Reverse using recursion - ⬜ Pending  
 52. Armstrong 1–100 - ⬜ Pending  
 53. Binary ↔ Decimal - ⬜ Pending  
-54. Pascal’s Triangle - ⬜ Pending  
+54. Pascal’s Triangle - ✅  
 55. Floyd’s Triangle - ⬜ Pending  
 56. Number pyramid - ⬜ Pending  
 57. Star pyramid - ⬜ Pending  
