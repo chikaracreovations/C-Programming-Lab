@@ -10,7 +10,7 @@ for(i=0;i<n;i++)
 for(j=0;j<n;j++)
 scanf("%d",&a[i][j]);
   
-printf("Enter First Matrix: ");
+printf("Enter Second Matrix: ");
 for(i=0;i<n;i++)
 for(j=0;j<n;j++)
 scanf("%d",&b[i][j]);
