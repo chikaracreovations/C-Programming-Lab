@@ -1,18 +1,25 @@
 #include<stdio.h>
 int main(){
-int n,i,j,a[10][10],b[10][10],sum[10][10],mul[10][10],k;
+int n,i,j,k;
 printf("Enter order:\n");
 scanf("%d",&n);
+int a[n][n],b[n][n],sum[n][n],mul[n][n];
+
+printf("Enter First Matrix: ");
 for(i=0;i<n;i++)
 for(j=0;j<n;j++)
 scanf("%d",&a[i][j]);
+  
+printf("Enter First Matrix: ");
 for(i=0;i<n;i++)
 for(j=0;j<n;j++)
 scanf("%d",&b[i][j]);
+  
 for(i=0;i<n;i++)
 for(j=0;j<n;j++)
 sum[i][j]=a[i][j]+b[i][j];
-for(i=0;i<n;i++)
+
+for(i=0;i<n;i++)  
 for(j=0;j<n;j++){
 mul[i][j]=0;
 for(k=0;k<n;k++)
