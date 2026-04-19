@@ -124,11 +124,11 @@
 ---
 
 ### 🔹 Lab 9: Strings & Advanced  
-81. strlen() - ⬜ Pending  
-82. strcpy() - ⬜ Pending  
-83. strcat() - ⬜ Pending  
-84. Count vowels/consonants - ⬜ Pending  
-85. String palindrome - ⬜ Pending  
+81. strlen() - ☑️
+82. strcpy() - ☑️  
+83. strcat() - ☑️ 
+84. Count vowels/consonants - ☑️ 
+85. String palindrome - ☑️
 86. Reverse string - ⬜ Pending  
 87. Character frequency - ⬜ Pending  
 88. Remove spaces - ⬜ Pending  
