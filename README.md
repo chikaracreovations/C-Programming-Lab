@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Student Details  
 - Name: Ansh Chikara  
-- Roll No:G 2D-32 
+- Roll No: G2D-32 
 - Course: B.Tech CSE-AI 
 - Subject: Programming For Problem Solving in C  
 
